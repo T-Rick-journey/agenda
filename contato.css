@@ -1,0 +1,27 @@
+h1 {
+    background-color: #00ff00;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+input {
+    margin: 1px;
+    padding: 1px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
