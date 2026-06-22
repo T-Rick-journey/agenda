@@ -190,8 +190,6 @@ async function carregarContato(id) {
     document.getElementById("email").value = data.email;
 }
 
-document.getElementById("btnSalvar").addEventListener("click", salvarContato);
-
 document.getElementById("btnBuscar").addEventListener("click", buscarContato);
 
 document.getElementById("btnCancelar").addEventListener("click", limparFormulario);
